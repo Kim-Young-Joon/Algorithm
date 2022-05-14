@@ -18,4 +18,10 @@
     2. 매개변수가 둘 => (String 변수).substring(2,6); : String 변수의 index가 2인 위치부터 5인 위치까지의 문자열을 가져오게 된다.
     (매개변수가 두 개 일때, 뒤에 오늘 숫자-1 까지의 index로 자른다는 것을 꼭 기억!!!)
     
-**
+*Collection 프레임워크*
+    
+    1. Arrays
+    2. ArrayList
+    3. HashSet
+    4. HashMap
+
